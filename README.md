@@ -61,17 +61,20 @@ El pecho y brazos de gorilla con los biceps sin pelaje pero los antebrazos cubie
 ### Color de melena y barba
 ![Melena / Barba](https://uncannyxmen.net/sites/default/files/images/characters/beast/beast-bigcostume17.jpg)
 
+### [Paleta](https://coolors.co/007fff-0077ff-19639f):
+![palette](https://github.com/user-attachments/assets/9a9e4a64-1ce6-44b9-ad95-5d6b0fb0fd01)
+
 Solamente vestido con un short como en las imagenes anteriores
 
 ### Manos
 Las manos son entre gorilla y humano, mas grandes que un humano, con garras afiladas de un tono plateado
 
 ### Piernas  
-
 Las piernas son mas como las patas traseras de un leon:
 ![Piernas](https://cdn.vectorstock.com/i/1000v/06/75/heraldic-lion-25-vector-1050675.jpg)
 
-Los pies son mas como lo de un chimpance:
+### Pies
+Los pies son mas como lo de un chimpance pero con garras afiladas de un tono plateado:
 ![Pies](https://i.imgur.com/xCWqwV6.jpeg)
 
 
